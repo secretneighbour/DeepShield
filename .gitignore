@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.db
+*.sqlite
+*.sqlite3
+scamshield.db*
+
+# Environment & Secrets
+.env
+.env.local
+.services.pid
+*.pem
+*.key
+*.cert
+
+# Node / Vite
+node_modules/
+dist/
+dist-ssr/
+*.local
+.npm
+npm-debug.log*
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary media & OS
+tempmediaStorage/
+*.tmp
+.DS_Store
+Thumbs.db
+
+.env
+.env.*
+!.env.example

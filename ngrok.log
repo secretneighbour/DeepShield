@@ -1,0 +1,4 @@
+=== Starting ngrok Public HTTPS Tunnel ===
+Forwarding to local reverse proxy on port: 5173
+[i] No persistent domain specified (NGROK_DOMAIN is empty in .env).
+    Generating temporary random ngrok HTTPS URL...
